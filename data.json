@@ -1,0 +1,16 @@
+{
+    "a@aa": {
+        "www.trendyol.com": {
+            "email": "a@aa",
+            "password": "gAAAAABkdPFwVvtA_Y2iZKgTCfvqf2e4iqhMVnh_K0Gi4ItEyWEYcz6MSIIPK8w5jwCwTNINVQZ8zGpiA5IPIEciUuIt89LObw==",
+            "salt": "\u000fhI\u008b16\u0017\u00fe\u00ee:3\u00f0\u009as\u00c5\u0086"
+        }
+    },
+    "": {
+        "https://www.amazon.com.tr/": {
+            "email": "alperbase@yahoo.com",
+            "password": "gAAAAABmHDB4gfBTNVNRTqDJY2FudqQpnHeahuMsQ5VihERxzreYq3e3eIVpI0QRs-AYZcI1jEf7koXzsnQr_zYaVl3oa5p3bQ==",
+            "salt": "3|\u0087\u00e2!1y`5\u00e4\u00ac\u0089j\fcD"
+        }
+    }
+}
